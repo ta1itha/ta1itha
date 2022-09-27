@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ta1itha
 - 👀 I’m interested in building projects that flex my full-stack skills
-- 🌱 I’m currently learning NestJS and Go
-- 💞️ I’m looking to collaborate on anything open source :) 
+- 🌱 I’m currently learning NestJS and NextJS
+- 💞️ I’m looking to collaborate on anything open source :)
 - 📫 How to reach me -> talithadev93@gmail.com or look up Talitha Kruger on LinkedIn
 
 <!---
