@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ta1itha
-- 👀 I’m interested in building projects and working for a company that will allow me to flex my full-stack skills
+- 👀 I’m am working as a front-end web development tutor at Noroff
 - 🌱 I’m currently learning NestJS and NextJS
-- 💞️ I’m looking to collaborate on anything open source :)
+- 💞️ I’m looking to collaborate on anything open source, especially if it is geared towards environmental conservation :)
 - 📫 How to reach me -> talithadev93@gmail.com or look up Talitha Kruger on LinkedIn
 
 <!---
